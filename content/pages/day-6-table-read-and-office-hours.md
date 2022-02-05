@@ -24,13 +24,66 @@ Half of the class will read their script aloud while everyone will make live com
 
 {{< resource cb299d4f-bd45-88a5-06a5-1ec66f9410be >}}
 
-| VIDEO CHAPTERS | SCRIPT DRAFTS |
-| --- | --- |
-| [Yuliya's Table-read]({{< baseurl >}}/resources/copy_of_day-6) | [Yuliya's Script (DOC)]({{< baseurl >}}/resources/mit20_219iap15_fractals) |
-| [David's Table-read]({{< baseurl >}}/resources/copy2_of_day-6) | [David's Script (DOC)]({{< baseurl >}}/resources/mit20_219iap15_cold) |
-| [Nathan's Table-read]({{< baseurl >}}/resources/copy3_of_day-6) | Nathan's script is not available |
-| [Andrea's Table-read]({{< baseurl >}}/resources/copy4_of_day-6) | [Andrea's Script]({{< baseurl >}}/pages/student-projects/andrea-desrosierss-project#Ortho_Script) |
-| [PJ's Table-read]({{< baseurl >}}/resources/copy5_of_day-6) | [PJ's Script (DOC)]({{< baseurl >}}/resources/mit20_219iap15_folino) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+VIDEO CHAPTERS
+{{< thclose >}}
+{{< thopen >}}
+SCRIPT DRAFTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Yuliya's Table-read]({{< baseurl >}}/resources/copy_of_day-6)
+{{< tdclose >}}
+{{< tdopen >}}
+[Yuliya's Script (DOC)]({{< baseurl >}}/resources/mit20_219iap15_fractals)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[David's Table-read]({{< baseurl >}}/resources/copy2_of_day-6)
+{{< tdclose >}}
+{{< tdopen >}}
+[David's Script (DOC)]({{< baseurl >}}/resources/mit20_219iap15_cold)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Nathan's Table-read]({{< baseurl >}}/resources/copy3_of_day-6)
+{{< tdclose >}}
+{{< tdopen >}}
+Nathan's script is not available
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Andrea's Table-read]({{< baseurl >}}/resources/copy4_of_day-6)
+{{< tdclose >}}
+{{< tdopen >}}
+[Andrea's Script]({{< baseurl >}}/pages/student-projects/andrea-desrosierss-project#Ortho_Script)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[PJ's Table-read]({{< baseurl >}}/resources/copy5_of_day-6)
+{{< tdclose >}}
+{{< tdopen >}}
+[PJ's Script (DOC)]({{< baseurl >}}/resources/mit20_219iap15_folino)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "Assignment" >}}{{< /anchor >}}Assignment
 ----------------------------------------------------

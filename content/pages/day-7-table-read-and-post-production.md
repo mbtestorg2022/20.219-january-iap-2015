@@ -25,10 +25,39 @@ We'll finish the rest of the table-reads and then cover the "art" of editing and
 
 {{< resource 6942b8e9-23f9-420c-9ae4-ae945bb68b29 >}}
 
-| VIDEO CHAPTERS | SCRIPT DRAFTS |
-| --- | --- |
-| [Joshua's Table-read]({{< baseurl >}}/resources/copy_of_day-7-part-1) | [Joshua's Script (DOC)]({{< baseurl >}}/resources/mit20_219iap15_joshua) |
-| [Kenneth's Table-read]({{< baseurl >}}/resources/copy2_of_day-7-part-1) | [Kenneth's Script (DOC)]({{< baseurl >}}/resources/mit20_219iap15_kenneth) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+VIDEO CHAPTERS
+{{< thclose >}}
+{{< thopen >}}
+SCRIPT DRAFTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Joshua's Table-read]({{< baseurl >}}/resources/copy_of_day-7-part-1)
+{{< tdclose >}}
+{{< tdopen >}}
+[Joshua's Script (DOC)]({{< baseurl >}}/resources/mit20_219iap15_joshua)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Kenneth's Table-read]({{< baseurl >}}/resources/copy2_of_day-7-part-1)
+{{< tdclose >}}
+{{< tdopen >}}
+[Kenneth's Script (DOC)]({{< baseurl >}}/resources/mit20_219iap15_kenneth)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "Part_2:_Post-production" >}}{{< /anchor >}}Part 2: Post-production
 ------------------------------------------------------------------------------

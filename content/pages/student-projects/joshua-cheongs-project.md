@@ -163,18 +163,207 @@ And that's how we find stuff better. Not a just little bit better but a lot bett
 {{< anchor "Day_5_Storyboard" >}}{{< /anchor >}}Day 5 Storyboard
 ----------------------------------------------------------------
 
-| _SCENE #_ | _LOCATIONs_ | _VIDEOs_ | _NARRATIONs_ |
-| --- | --- | --- | --- |
-| 1 | Koch | Film with B-roll of searching in my cupboards | Have you ever found it difficult to find a particular item in your house? Let's say you've lost a pair of gloves and you spend the entire afternoon looking for it, but you just can't find it. |
-| 2 | Google Sign & Microsoft Sign @ Kendall | Back | You have encountered the same problem that companies like Google or Microsoft try to solve every single day: The problem of Search. |
-| 3 | Hotel | Closeup | Just like a house which stores thousands of different items, Google stores about 45 billion different index pages of information. If each page of information was a sheet of paper (host holds up a piece of paper) and if we stacked them all together, we would create a tower 600 times taller than Mount Everest! (Camera men on the sides dump a mountain of papers on the host, causing him / her to comically fall over) {{< br >}}{{< br >}} So how can a search engine like Google find your search results so quickly while we find it so difficult to find a pair of gloves? {{< br >}}{{< br >}}  |
-| 4 | MIT Dome Shot | Rule of Thirds, end by sweeping the camera up | Well, it turns out that searching on the Internet is kinda like looking for a person in a big school. |
-| 5 | Building 4 Corridor |  {{< br >}}{{< br >}} Start by sweeping the camera down, Rule of Thirds {{< br >}}{{< br >}} Film with B-roll of running from room to room {{< br >}}{{< br >}} Film additional closeup shot {{< br >}}{{< br >}}  | Let's suppose we're looking for a student called "James". To find James, the simplest way would be to run to every room nearest to you until you find him. But that would take a very long time. {{< br >}}{{< br >}} There's a better way known as Binary Search. (\*The keywords "Binary Search" flashes over the host's hands) {{< br >}}{{< br >}}  |
-| 6 | Building 4 classroom table |  {{< br >}}{{< br >}} Shoot from top down {{< br >}}{{< br >}} (Try 11 cards) {{< br >}}{{< br >}}  | Let's say the people were arranged in alphabetical order in increasing numbers of the classrooms. We could run to the room in the middle and check if the name of the person in the room is James. If the person’s name starts with letter before 'J', we head to the right. If not we would go to the left. We then head off to the middle room of the newly sectioned area. And we rinse and repeat. Eventually we will find James just like the first method. But we found him much faster than using the first method. |
-| 7 | Stata Center level 3? | Rule of thirds | How much faster would that be? Well, that depends on number of people staying at the hotel. Let's say it takes 10 seconds to knock on each hotel door and there's 500 people, it would take about 80 minutes for the first method and 1.5 minutes for Binary Search. If there were a thousand people in the hotel, it would take 160 minutes for the first method and only 1.6 minutes for Binary Search. Now that's a whole lot of difference. |
-| 8 | Google Sign @ Kendall | Rule of thirds | So a name like "James" is just a word, but companies like Google take in searches with a long combination of words, making it a bit more complicated. Just like identifying the word "James" from its first letter, Google identify unique characteristics of search phrases using over 200 factors. |
-| 9 | Google Sign @ Kendall | &nbsp; | Also notice how the better method depends on prearranging the people in alphabetical order? Computer scientists are always actively looking for better methods to sort, manage, and retrieve data. |
-| 10 | Hotel | &nbsp; |  {{< br >}}{{< br >}} In the same way, simply by placing your home items in locations where they have a natural relationship, makes it easier for us to find them. The TV remote goes near the TV, the shoes go to the shoe rack, the coats go into the cupboard and the the winter gloves goes in the winter jacket. {{< br >}}{{< br >}} (Location is back in the dorm \*Finds gloves in the jacket) {{< br >}}{{< br >}} Aha! So that's where my gloves are! {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+_SCENE #_
+{{< thclose >}}
+{{< thopen >}}
+_LOCATIONs_
+{{< thclose >}}
+{{< thopen >}}
+_VIDEOs_
+{{< thclose >}}
+{{< thopen >}}
+_NARRATIONs_
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Koch
+{{< tdclose >}}
+{{< tdopen >}}
+Film with B-roll of searching in my cupboards
+{{< tdclose >}}
+{{< tdopen >}}
+Have you ever found it difficult to find a particular item in your house? Let's say you've lost a pair of gloves and you spend the entire afternoon looking for it, but you just can't find it.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Google Sign & Microsoft Sign @ Kendall
+{{< tdclose >}}
+{{< tdopen >}}
+Back
+{{< tdclose >}}
+{{< tdopen >}}
+You have encountered the same problem that companies like Google or Microsoft try to solve every single day: The problem of Search.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Hotel
+{{< tdclose >}}
+{{< tdopen >}}
+Closeup
+{{< tdclose >}}
+{{< tdopen >}}
+Just like a house which stores thousands of different items, Google stores about 45 billion different index pages of information. If each page of information was a sheet of paper (host holds up a piece of paper) and if we stacked them all together, we would create a tower 600 times taller than Mount Everest! (Camera men on the sides dump a mountain of papers on the host, causing him / her to comically fall over)
+
+So how can a search engine like Google find your search results so quickly while we find it so difficult to find a pair of gloves?
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+MIT Dome Shot
+{{< tdclose >}}
+{{< tdopen >}}
+Rule of Thirds, end by sweeping the camera up
+{{< tdclose >}}
+{{< tdopen >}}
+Well, it turns out that searching on the Internet is kinda like looking for a person in a big school.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Building 4 Corridor
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Start by sweeping the camera down, Rule of Thirds
+
+Film with B-roll of running from room to room
+
+Film additional closeup shot
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Let's suppose we're looking for a student called "James". To find James, the simplest way would be to run to every room nearest to you until you find him. But that would take a very long time.
+
+There's a better way known as Binary Search. (\*The keywords "Binary Search" flashes over the host's hands)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Building 4 classroom table
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Shoot from top down
+
+(Try 11 cards)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Let's say the people were arranged in alphabetical order in increasing numbers of the classrooms. We could run to the room in the middle and check if the name of the person in the room is James. If the person’s name starts with letter before 'J', we head to the right. If not we would go to the left. We then head off to the middle room of the newly sectioned area. And we rinse and repeat. Eventually we will find James just like the first method. But we found him much faster than using the first method.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Stata Center level 3?
+{{< tdclose >}}
+{{< tdopen >}}
+Rule of thirds
+{{< tdclose >}}
+{{< tdopen >}}
+How much faster would that be? Well, that depends on number of people staying at the hotel. Let's say it takes 10 seconds to knock on each hotel door and there's 500 people, it would take about 80 minutes for the first method and 1.5 minutes for Binary Search. If there were a thousand people in the hotel, it would take 160 minutes for the first method and only 1.6 minutes for Binary Search. Now that's a whole lot of difference.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Google Sign @ Kendall
+{{< tdclose >}}
+{{< tdopen >}}
+Rule of thirds
+{{< tdclose >}}
+{{< tdopen >}}
+So a name like "James" is just a word, but companies like Google take in searches with a long combination of words, making it a bit more complicated. Just like identifying the word "James" from its first letter, Google identify unique characteristics of search phrases using over 200 factors.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Google Sign @ Kendall
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Also notice how the better method depends on prearranging the people in alphabetical order? Computer scientists are always actively looking for better methods to sort, manage, and retrieve data.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Hotel
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+In the same way, simply by placing your home items in locations where they have a natural relationship, makes it easier for us to find them. The TV remote goes near the TV, the shoes go to the shoe rack, the coats go into the cupboard and the the winter gloves goes in the winter jacket.
+
+(Location is back in the dorm \*Finds gloves in the jacket)
+
+Aha! So that's where my gloves are!
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 [_Link back to Day 5_]({{< baseurl >}}/pages/day-5-storytellers-toolkit-pt.-3#Instructor_and_Student_Work)
 

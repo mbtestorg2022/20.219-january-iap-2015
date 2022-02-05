@@ -57,19 +57,372 @@ Students began watching each of the videos below and recorded how long they cont
 *   Khan Academy. "[Introduction to Evolution and Natural Selection](https://youtu.be/GcjgWov7mTM)." September 21, 2009. YouTube.
 *   MIT OpenCourseWare. "[Lec 31 | MIT 7.0014 Introductory Biology, Spring 2005](https://youtu.be/LBR4pEC7kwU)." February 8, 2008. YouTube.
 
-| &nbsp; | BILL NYE | Cosmos | SCISHOW | VERITASIUM | TED-ED | ASAPSCIENCE | KHAN ACADEMY | MIT OCW |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Elizabeth | 2:00 | 1:29 | 0:05 | Finished | 0:21 | Finished | 0:18 | 0:33 |
-| Ceri | 2:42 | 1:05 | Finished | Finished | 0:30 | Finished | 0:34 | 0:13 |
-| Joshua | 5:15 | 1:37 | 2:51 | 2:53 | 3:50 | Did not watch | Did not watch | Did not watch |
-| Kenneth | 3:20 | 1:46 | 3:19 | Finished | 4:37 | Finished | Did not watch | Did not watch |
-| Nathan | 2:14 | 1:25 | Finished | 1:29 | Finished | Finished | 0:36 | 0:46 |
-| Andrea | 0:13 | 2:35 | 2:01 | Finished | 0:39 | Finished | 0:35 | 0:39 |
-| David | 1:10 | 1:20 | 1:40 | 2:00 | 3:30 | Finished | Did not watch | Did not watch |
-| Jiaqi | 2:30 | 1:29 | 0:15 | Finished | Finished | Finished | 0:44 | Did not watch |
-| Yuliya | 0:15 | 3:20 | Finished | 0:30 | 0:40 | Finished | Wanted to finish | 0:30 |
-| Paul | 3:43 | 2:26 | 1:45 | Finished | Finished | Finished | 0:17 | 0:12 |
-| Jonathan | Finished | Finished | Finished | 0:30 | 0:25 | 0:55 | 0:15 | 0:30 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ 
+{{< thclose >}}
+{{< thopen >}}
+BILL NYE
+{{< thclose >}}
+{{< thopen >}}
+Cosmos
+{{< thclose >}}
+{{< thopen >}}
+SCISHOW
+{{< thclose >}}
+{{< thopen >}}
+VERITASIUM
+{{< thclose >}}
+{{< thopen >}}
+TED-ED
+{{< thclose >}}
+{{< thopen >}}
+ASAPSCIENCE
+{{< thclose >}}
+{{< thopen >}}
+KHAN ACADEMY
+{{< thclose >}}
+{{< thopen >}}
+MIT OCW
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Elizabeth
+{{< tdclose >}}
+{{< tdopen >}}
+2:00
+{{< tdclose >}}
+{{< tdopen >}}
+1:29
+{{< tdclose >}}
+{{< tdopen >}}
+0:05
+{{< tdclose >}}
+{{< tdopen >}}
+Finished
+{{< tdclose >}}
+{{< tdopen >}}
+0:21
+{{< tdclose >}}
+{{< tdopen >}}
+Finished
+{{< tdclose >}}
+{{< tdopen >}}
+0:18
+{{< tdclose >}}
+{{< tdopen >}}
+0:33
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Ceri
+{{< tdclose >}}
+{{< tdopen >}}
+2:42
+{{< tdclose >}}
+{{< tdopen >}}
+1:05
+{{< tdclose >}}
+{{< tdopen >}}
+Finished
+{{< tdclose >}}
+{{< tdopen >}}
+Finished
+{{< tdclose >}}
+{{< tdopen >}}
+0:30
+{{< tdclose >}}
+{{< tdopen >}}
+Finished
+{{< tdclose >}}
+{{< tdopen >}}
+0:34
+{{< tdclose >}}
+{{< tdopen >}}
+0:13
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Joshua
+{{< tdclose >}}
+{{< tdopen >}}
+5:15
+{{< tdclose >}}
+{{< tdopen >}}
+1:37
+{{< tdclose >}}
+{{< tdopen >}}
+2:51
+{{< tdclose >}}
+{{< tdopen >}}
+2:53
+{{< tdclose >}}
+{{< tdopen >}}
+3:50
+{{< tdclose >}}
+{{< tdopen >}}
+Did not watch
+{{< tdclose >}}
+{{< tdopen >}}
+Did not watch
+{{< tdclose >}}
+{{< tdopen >}}
+Did not watch
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Kenneth
+{{< tdclose >}}
+{{< tdopen >}}
+3:20
+{{< tdclose >}}
+{{< tdopen >}}
+1:46
+{{< tdclose >}}
+{{< tdopen >}}
+3:19
+{{< tdclose >}}
+{{< tdopen >}}
+Finished
+{{< tdclose >}}
+{{< tdopen >}}
+4:37
+{{< tdclose >}}
+{{< tdopen >}}
+Finished
+{{< tdclose >}}
+{{< tdopen >}}
+Did not watch
+{{< tdclose >}}
+{{< tdopen >}}
+Did not watch
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Nathan
+{{< tdclose >}}
+{{< tdopen >}}
+2:14
+{{< tdclose >}}
+{{< tdopen >}}
+1:25
+{{< tdclose >}}
+{{< tdopen >}}
+Finished
+{{< tdclose >}}
+{{< tdopen >}}
+1:29
+{{< tdclose >}}
+{{< tdopen >}}
+Finished
+{{< tdclose >}}
+{{< tdopen >}}
+Finished
+{{< tdclose >}}
+{{< tdopen >}}
+0:36
+{{< tdclose >}}
+{{< tdopen >}}
+0:46
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Andrea
+{{< tdclose >}}
+{{< tdopen >}}
+0:13
+{{< tdclose >}}
+{{< tdopen >}}
+2:35
+{{< tdclose >}}
+{{< tdopen >}}
+2:01
+{{< tdclose >}}
+{{< tdopen >}}
+Finished
+{{< tdclose >}}
+{{< tdopen >}}
+0:39
+{{< tdclose >}}
+{{< tdopen >}}
+Finished
+{{< tdclose >}}
+{{< tdopen >}}
+0:35
+{{< tdclose >}}
+{{< tdopen >}}
+0:39
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+David
+{{< tdclose >}}
+{{< tdopen >}}
+1:10
+{{< tdclose >}}
+{{< tdopen >}}
+1:20
+{{< tdclose >}}
+{{< tdopen >}}
+1:40
+{{< tdclose >}}
+{{< tdopen >}}
+2:00
+{{< tdclose >}}
+{{< tdopen >}}
+3:30
+{{< tdclose >}}
+{{< tdopen >}}
+Finished
+{{< tdclose >}}
+{{< tdopen >}}
+Did not watch
+{{< tdclose >}}
+{{< tdopen >}}
+Did not watch
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Jiaqi
+{{< tdclose >}}
+{{< tdopen >}}
+2:30
+{{< tdclose >}}
+{{< tdopen >}}
+1:29
+{{< tdclose >}}
+{{< tdopen >}}
+0:15
+{{< tdclose >}}
+{{< tdopen >}}
+Finished
+{{< tdclose >}}
+{{< tdopen >}}
+Finished
+{{< tdclose >}}
+{{< tdopen >}}
+Finished
+{{< tdclose >}}
+{{< tdopen >}}
+0:44
+{{< tdclose >}}
+{{< tdopen >}}
+Did not watch
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Yuliya
+{{< tdclose >}}
+{{< tdopen >}}
+0:15
+{{< tdclose >}}
+{{< tdopen >}}
+3:20
+{{< tdclose >}}
+{{< tdopen >}}
+Finished
+{{< tdclose >}}
+{{< tdopen >}}
+0:30
+{{< tdclose >}}
+{{< tdopen >}}
+0:40
+{{< tdclose >}}
+{{< tdopen >}}
+Finished
+{{< tdclose >}}
+{{< tdopen >}}
+Wanted to finish
+{{< tdclose >}}
+{{< tdopen >}}
+0:30
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paul
+{{< tdclose >}}
+{{< tdopen >}}
+3:43
+{{< tdclose >}}
+{{< tdopen >}}
+2:26
+{{< tdclose >}}
+{{< tdopen >}}
+1:45
+{{< tdclose >}}
+{{< tdopen >}}
+Finished
+{{< tdclose >}}
+{{< tdopen >}}
+Finished
+{{< tdclose >}}
+{{< tdopen >}}
+Finished
+{{< tdclose >}}
+{{< tdopen >}}
+0:17
+{{< tdclose >}}
+{{< tdopen >}}
+0:12
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Jonathan
+{{< tdclose >}}
+{{< tdopen >}}
+Finished
+{{< tdclose >}}
+{{< tdopen >}}
+Finished
+{{< tdclose >}}
+{{< tdopen >}}
+Finished
+{{< tdclose >}}
+{{< tdopen >}}
+0:30
+{{< tdclose >}}
+{{< tdopen >}}
+0:25
+{{< tdclose >}}
+{{< tdopen >}}
+0:55
+{{< tdclose >}}
+{{< tdopen >}}
+0:15
+{{< tdclose >}}
+{{< tdopen >}}
+0:30
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 **{{< anchor "Part_2:_Visual_Storytelling" >}}{{< /anchor >}}**Part 2: Visual Storytelling
 ------------------------------------------------------------------------------------------
@@ -106,7 +459,7 @@ What's one aspect of science / engineering that you find fascinating? Can you te
 
 ### Daily Blog / Vlog
 
-Provide documentation on your process / difficulties in completing this assignment. This can take the form of a written blog post reflection, photos, another "selfie" video (<2 min.), or other creative media format of your choice. Upload the post to the class tumblr with the tag #day1**.**
+Provide documentation on your process / difficulties in completing this assignment. This can take the form of a written blog post reflection, photos, another "selfie" video (\<2 min.), or other creative media format of your choice. Upload the post to the class tumblr with the tag #day1**.**
 
 {{< resource 65f744ef-7f70-e789-ec6e-5547880b4d12 >}}
 

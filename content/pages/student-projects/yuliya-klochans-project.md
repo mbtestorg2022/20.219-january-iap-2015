@@ -340,7 +340,7 @@ Look around you. What beautiful patterns do you see?
 
 *   Stata: Dark black / blue clothing to contrast murals; Props: Chalk, tissue, cell phone
 *   Outdoors: Light blue winter jacket, black pants and gloves
-*   EC Shower: Flip flops, I <3 MIT T shirt, black sports pants; Props: Sponge, soap, cup, towel, phone (anything glued on?)
+*   EC Shower: Flip flops, I \<3 MIT T shirt, black sports pants; Props: Sponge, soap, cup, towel, phone (anything glued on?)
 *   Office / Indoor Locations: Blue dress; Props: Laptop, bent wire (string?)
 
 ### Locations

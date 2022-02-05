@@ -44,15 +44,85 @@ Peer-annotate your assigned projects by the end of class. Then, work on your pro
 {{< anchor "Student_Work" >}}{{< /anchor >}}Student Work
 --------------------------------------------------------
 
-| Rough Cuts | Comments |
-| --- | --- |
-| [Kenneth's rough cut]({{< baseurl >}}/pages/student-projects/kenneth-cheahs-project#Rough_Cut) | [Comments on Kenneth's rough cut (PDF)]({{< baseurl >}}/resources/mit20_219iap15_kennethcom) |
-| [Joshua's rough cut]({{< baseurl >}}/pages/student-projects/joshua-cheongs-project#Rough_Cut) | [Comments on Joshua's rough cut (PDF)]({{< baseurl >}}/resources/mit20_219iap15_joshuacom)[  {{< br >}}]({{< baseurl >}}/resources/mit20_219iap15_joshuacom) |
-| [Andrea's rough cut]({{< baseurl >}}/pages/student-projects/andrea-desrosierss-project#Rough_Cut) | [Comments on Andrea's rough cut (PDF)]({{< baseurl >}}/resources/mit20_219iap15_andreacom) |
-| [PJ's rough cut]({{< baseurl >}}/pages/student-projects/paul-pj-folinos-project#Rough_Cut) | [Comments on PJ's rough cut (PDF)]({{< baseurl >}}/resources/mit20_219iap15_pjcom) |
-| [Nathan's rough cut]({{< baseurl >}}/pages/student-projects/nathan-hernandezs-project#Final_Project) | [Comments on Nathan's rough cut (PDF)]({{< baseurl >}}/resources/mit20_219iap15_nathancom) |
-| [Yuliya's rough cut]({{< baseurl >}}/pages/student-projects/yuliya-klochans-project#Fractals__Rough_Cut) | [Comments on Yuliya's rough cut (PDF)]({{< baseurl >}}/resources/mit20_219iap15_yuliyacom) |
-| [David's rough cut]({{< baseurl >}}/pages/student-projects/david-yams-project#Rough_Cut) | [Comments on David's rough cut (PDF)]({{< baseurl >}}/resources/mit20_219iap15_davidcom) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Rough Cuts
+{{< thclose >}}
+{{< thopen >}}
+Comments
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Kenneth's rough cut]({{< baseurl >}}/pages/student-projects/kenneth-cheahs-project#Rough_Cut)
+{{< tdclose >}}
+{{< tdopen >}}
+[Comments on Kenneth's rough cut (PDF)]({{< baseurl >}}/resources/mit20_219iap15_kennethcom)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Joshua's rough cut]({{< baseurl >}}/pages/student-projects/joshua-cheongs-project#Rough_Cut)
+{{< tdclose >}}
+{{< tdopen >}}
+[Comments on Joshua's rough cut (PDF)]({{< baseurl >}}/resources/mit20_219iap15_joshuacom)[  
+]({{< baseurl >}}/resources/mit20_219iap15_joshuacom)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Andrea's rough cut]({{< baseurl >}}/pages/student-projects/andrea-desrosierss-project#Rough_Cut)
+{{< tdclose >}}
+{{< tdopen >}}
+[Comments on Andrea's rough cut (PDF)]({{< baseurl >}}/resources/mit20_219iap15_andreacom)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[PJ's rough cut]({{< baseurl >}}/pages/student-projects/paul-pj-folinos-project#Rough_Cut)
+{{< tdclose >}}
+{{< tdopen >}}
+[Comments on PJ's rough cut (PDF)]({{< baseurl >}}/resources/mit20_219iap15_pjcom)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Nathan's rough cut]({{< baseurl >}}/pages/student-projects/nathan-hernandezs-project#Final_Project)
+{{< tdclose >}}
+{{< tdopen >}}
+[Comments on Nathan's rough cut (PDF)]({{< baseurl >}}/resources/mit20_219iap15_nathancom)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Yuliya's rough cut]({{< baseurl >}}/pages/student-projects/yuliya-klochans-project#Fractals__Rough_Cut)
+{{< tdclose >}}
+{{< tdopen >}}
+[Comments on Yuliya's rough cut (PDF)]({{< baseurl >}}/resources/mit20_219iap15_yuliyacom)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[David's rough cut]({{< baseurl >}}/pages/student-projects/david-yams-project#Rough_Cut)
+{{< tdclose >}}
+{{< tdopen >}}
+[Comments on David's rough cut (PDF)]({{< baseurl >}}/resources/mit20_219iap15_davidcom)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "Overview" >}}{{< /anchor >}}Overview (Day 12)
 ---------------------------------------------------------

@@ -115,7 +115,7 @@ _Class participation_
 
 _Daily blog/vlog reflections_
 
-*   Students were expected to upload documentation of their process/difficulties/lessons learned in completing assignments or insights gained from class workshops. This took the form of a written blog post reflection, photos, a “selfie” video (<2 min.), or other creative media format of their choice.
+*   Students were expected to upload documentation of their process/difficulties/lessons learned in completing assignments or insights gained from class workshops. This took the form of a written blog post reflection, photos, a “selfie” video (\<2 min.), or other creative media format of their choice.
 *   Daily assignments were graded on a three-point scale of good, sufficient, or incomplete (or a zero for no or late work).
 
 _Workshop products_
@@ -125,7 +125,7 @@ _Workshop products_
 
 _Final project_
 
-Students’ work culminated in a <5 min. episode. Individual grades reflected 65% of a student’s own work (script, hosting, etc.) and 35% the production he or she did for his or her partner (filming).
+Students’ work culminated in a \<5 min. episode. Individual grades reflected 65% of a student’s own work (script, hosting, etc.) and 35% the production he or she did for his or her partner (filming).
 
 ### Rubrics
 
