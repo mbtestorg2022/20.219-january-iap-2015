@@ -13,7 +13,7 @@ _Below, Elizabeth Choe and Jaime Goldstein discuss how they used backward design
 
 In fact, initially, when I met with you, I said I wanted students to become familiar with camera work. You replied, “That’s not really what you want, right?” When I reflected on my experiences making [Science Out Loud](http://k12videos.mit.edu/science-out-loud/), I realized camera work was only the tip of the iceberg of what I wanted students to learn. I was really more interested in having students become excited about communicating—and learning how hard it really is to communicate through video. These things have nothing to do with a camera. I realized that, at the end of the day, it wouldn’t be a big deal if students’ videos weren’t very good. We knew that we could help them with that part. The purpose of the class wasn't really about making a flawless final video. It was about developing students’ digital media skills.
 
-![Woman with dark hair and black glasses stands in front of a blackboard; she speaks and gesticulates. A female teaching assistant is in positioned in the lower lefthand corner of the image; she looks toward the woman speaking.](/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/instructor-insights/planning-backwards/eliz-lec.jpg)  
+{{< resource "fa64ae45-0481-4282-31e0-eafef25a5aab" >}}  
 
 Elizabeth Choe delivers a lecture in _20.219 Becoming the Next Bill Nye_ (Image by MIT OpenCourseWare).
 
@@ -29,7 +29,7 @@ I always came up with a culminating event (authentic, when possible) for student
 
 The video project in _20.219 Becoming the Next Bill Nye_ was a perfect example of a meaningful culminating event because it was authentic. Students were actually going to be filmed at the end of the course, and have the opportunity to be a part of Science Out Loud. There was also this opportunity for a very deep personal journey through the material, because the task required specific technical skills, and everybody was at a different level of developmental readiness to apply those skills. There was also the more abstract understanding about digital literacy we wanted students to develop, and students came to the class with different levels of this understanding already in place. In other words, everyone had the opportunity to experience reaching his or her own finish line.
 
-![Woman with light hair and red glasses sits at a table between two male students. The woman looks toward the male student on her left. The male student gesticulates.](/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/instructor-insights/planning-backwards/jaime-student.jpg)  
+{{< resource "7ca30a54-e6b3-776a-0f28-ea4f9af05bc7" >}}  
 
 Jaime Goldstein helps a student refine his idea for the video he will produce in the course (Image by MIT OpenCourseWare).
 

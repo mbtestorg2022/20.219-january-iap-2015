@@ -8,6 +8,7 @@ image_metadata:
   caption: The students and instructors workshopping each others' video projects.
   credit: Photograph by MIT OpenCourseWare.
   image-alt: Several people in a classroom sitting at tables in a discussion.
+parent_uid: 6df56ca8-6d88-4c27-d497-aee73b724945
 resourcetype: Image
 title: class.jpg
 uid: 82977c42-5495-d6b5-5f55-ce43414c690a

@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 32b67e5b-5210-05d4-f811-9b60fb7ee964
 resourcetype: Image
 title: Joshua-Cheong---day-4-story.jpg
 uid: 9533ce82-7a08-ebf8-6930-7baf309a7813

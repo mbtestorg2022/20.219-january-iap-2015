@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 32b7558a-888d-a05c-b9fc-29fe9381506b
 resourcetype: Image
 title: JoshGunn.jpg
 uid: 9f7b1bf0-992d-f509-2490-44d54e29fec1

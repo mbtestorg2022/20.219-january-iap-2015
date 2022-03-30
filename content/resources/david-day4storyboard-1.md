@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: a70c0b56-5698-6d46-0ee2-e877495297b2
 resourcetype: Image
 title: David-day4storyboard-1.jpg
 uid: 86d973e5-b71d-75a7-feea-ff97bb2b03e0

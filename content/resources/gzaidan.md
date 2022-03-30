@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 32b7558a-888d-a05c-b9fc-29fe9381506b
 resourcetype: Image
 title: GZaidan.jpg
 uid: e134854e-4e26-2c34-8414-f090f94b9271

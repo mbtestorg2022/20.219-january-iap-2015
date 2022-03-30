@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 32b7558a-888d-a05c-b9fc-29fe9381506b
 resourcetype: Image
 title: NKundell.jpg
 uid: 14236a86-6741-6a8e-a7dd-ba7dc69f61ef

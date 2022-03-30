@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 1d079dd5-c0b4-174a-4773-f2520a5e0743
 resourcetype: Image
 title: AndreaDesrosiers-day4storyboard-4.jpg
 uid: 3a0a9487-4e89-37e3-c2aa-7335f82a6374

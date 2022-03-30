@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 32b7558a-888d-a05c-b9fc-29fe9381506b
 resourcetype: Image
 title: CeriR.jpg
 uid: ea564a4f-b2da-028f-70b5-d78505447e25

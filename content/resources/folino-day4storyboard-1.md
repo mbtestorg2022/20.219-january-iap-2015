@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 265dbc31-50c1-a4e1-4686-f6c614415b05
 resourcetype: Image
 title: Folino-day4storyboard-1.jpg
 uid: 95bee45f-c7d0-de0d-68c7-a0e2f13ea13b

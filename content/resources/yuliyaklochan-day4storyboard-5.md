@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 199a8a68-327f-ee7d-62ee-54642710c541
 resourcetype: Image
 title: YuliyaKlochan-day4storyboard-5.jpg
 uid: 31442b80-4ebd-46ff-5829-d43178deb7fc
